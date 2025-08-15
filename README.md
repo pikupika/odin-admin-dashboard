@@ -20,6 +20,11 @@ The layout includes:
   - Trending profiles section
 
 ---
+## 📸 Preview
+
+![Dashboard Preview](Sceenshots/screenshot.png)
+
+---
 
 ## 🖥 Features
 
