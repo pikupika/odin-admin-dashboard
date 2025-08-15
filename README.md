@@ -22,7 +22,7 @@ The layout includes:
 ---
 ## 📸 Preview
 
-![Dashboard Preview](Sceenshots/screenshot.png)
+![Dashboard Preview](Screenshots/screenshot.png)
 
 ---
 
