@@ -6,8 +6,6 @@ A fully responsive and clean admin dashboard layout built with **HTML** and **CS
 
 ---
 
-## 📌 Overview
-
 This project is part of *The Odin Project's Intermediate HTML & CSS curriculum*.  
 It focuses on building a complete dashboard layout using **CSS Grid** for structure, along with semantic HTML for accessibility and maintainability.
 
@@ -18,6 +16,11 @@ The layout includes:
   - Project cards
   - Announcements section
   - Trending profiles section
+
+---
+## 📸 Preview
+
+![Dashboard Preview](Screenshots/screenshot.png)
 
 ---
 
