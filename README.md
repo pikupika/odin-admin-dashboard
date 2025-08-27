@@ -2,7 +2,7 @@
 
 A fully responsive and clean admin dashboard layout built with **HTML** and **CSS Grid**, inspired by [The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard).
 
-**Live Demo:** [Click Here](https://pikupika.github.io/odin-admin-dashboard/)
+**Live: ** [Click Here](https://priyanshi-singh022.github.io/odin-admin-dashboard/)
 
 ---
 
